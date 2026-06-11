@@ -1,7 +1,7 @@
-name: astrbot_plugin_three_body_wiki
-display_name: 灰机wiki搜索工具
+name: astrbot_plugin_huijiwiki
+display_name: Huiji-wiki搜索工具
 desc: 通过API调用在灰机wiki中搜索内容
-version: v2.0.1
+version: v2.0.2
 author: J-SLY
 repo: https://github.com/J-SLY/astrbot_plugin_three_body_wiki
 support_platforms: 
